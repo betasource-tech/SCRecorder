@@ -1,4 +1,5 @@
 SCRecorder
+
 ===============
 
 <img src="filters.gif" width="230" height="408" />
